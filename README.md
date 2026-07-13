@@ -21,7 +21,7 @@ A Rocket League bot powered by deep reinforcement learning. Trained with PPO to 
 2. Download and extract **Nixer-main.zip**
 3. Launch RLBot — the GUI will open:
 
-   &lt;img width="1276" height="849" alt="RLBot GUI" src="https://github.com/user-attachments/assets/1b616517-fb8c-4ef6-a3f6-565753cb6d63" /&gt;
+   ![RLBot GUI](https://github.com/user-attachments/assets/1b616517-fb8c-4ef6-a3f6-565753cb6d63)
 
 ### Adding Nixer to RLBot
 
@@ -33,7 +33,9 @@ A Rocket League bot powered by deep reinforcement learning. Trained with PPO to 
 
 If everything is set up correctly, Nixer will appear in the bot list:
 
-&lt;img width="178" height="67" alt="Nixer Bot" src="https://github.com/user-attachments/assets/c44afb35-9dc6-473c-8b91-9df1c019ca7a" /&gt;
+![Nixer Bot](https://github.com/user-attachments/assets/c44afb35-9dc6-473c-8b91-9df1c019ca7a)
+
+the number can be different, if the version is more recent
 
 1. **Drag Nixer** into a team
 2. **Add a Human** to the opposing team
@@ -43,11 +45,11 @@ If everything is set up correctly, Nixer will appear in the bot list:
 
 ## 🧠 About
 
-Nixer is trained using proximal policy optimization (PPO) with a custom reward function designed for multiple game modes. It adapts its playstyle based on the current mode — for example, aerial-heavy for Hoops, aggressive redirects for Heatseeker, and balanced for Soccar.
+Nixer is trained using proximal policy optimization (PPO) with a custom reward function designed for multiple game modes. It adapts its playstyle based on the current mode — aerial-heavy for Hoops, aggressive redirects for Heatseeker, and balanced for Soccar.
 
 ---
 
-## Creator
+## 📱 Creator
 
 Made by **José Lourenço Lenz** ([@NextProject](https://www.youtube.com/@NextProject-050))
 
