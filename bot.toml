@@ -1,0 +1,44 @@
+#:schema https://rlbot.org/schemas/agent.json
+
+[settings]
+# Unique bot identifier
+agent_id = "easy_240hz/nixer/v0.5"
+
+# Bot name shown in-game
+name = "Nixer 0.5"
+
+# Loadout config file
+loadout_file = "loadout.toml"
+
+# Root directory (empty = current folder)
+root_dir = ""
+
+# Command used to start the bot
+run_command = "cmd /C run.bat"
+
+# Linux start command
+run_command_linux = "bash -lc ./run.sh"
+
+# Optional logo file
+logo_file = "logo.png"
+
+[details]
+# Short bot description
+description = """
+This is version 0.6 of my first GigaLearn bot, Nixer.
+"""
+
+# Fun fact
+fun_fact = "This bot can play hoops, soccar, heatseeker, and it can play 100vs100, if your pc can hold that"
+
+# Repository link
+source_link = "https://github.com/faixagamer/Nixer"
+
+# Developers / credits
+developer = "easy_240hz"
+
+# Programming language
+language = "C++/GigaLearn"
+
+# Bot tags
+tags = ["1v1", "teamplay", "heatseeker", "hoops"]
