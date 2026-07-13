@@ -56,3 +56,66 @@ Made by **José Lourenço Lenz** ([@NextProject](https://www.youtube.com/@NextPr
 - [YouTube](https://www.youtube.com/@NextProject-050)
 - [Instagram](https://www.instagram.com/nextproject050)
 - [TikTok](https://www.tiktok.com/@nextproject050)
+
+---
+
+---
+
+# Nixer (Português)
+
+Um bot de Rocket League com aprendizado profundo por reforço. Treinado com PPO para jogar Soccar, Hoops e Heatseeker.
+
+---
+
+## 🎮 Como Jogar Contra o Nixer
+
+### Pré-requisitos
+
+| Software | Download |
+|----------|----------|
+| **RLBot V5** | [Instalador](https://github.com/RLBot/launcher/releases/download/installer/rlbot-v5-installer.msi) |
+| **Nixer** | [Última Versão](https://github.com/faixagamer/Nixer/archive/refs/heads/main.zip) |
+
+&gt; Nunca usou RLBot? [Assista este tutorial](https://www.youtube.com/watch?v=7YdnEkzaRtI)
+
+### Instalação
+
+1. Instale o **RLBot V5** pelo instalador acima
+2. Baixe e extraia o **Nixer-main.zip**
+3. Abra o RLBot — a interface vai aparecer:
+
+   ![RLBot GUI](https://github.com/user-attachments/assets/1b616517-fb8c-4ef6-a3f6-565753cb6d63)
+
+### Adicionando o Nixer no RLBot
+
+1. Clique em **Add/Remove**
+2. Clique em **Add File**
+3. Selecione o `bot.toml` da pasta extraída `Nixer-Main`
+
+### Iniciando uma Partida
+
+Se tudo estiver certo, o Nixer vai aparecer na lista de bots:
+
+![Nixer Bot](https://github.com/user-attachments/assets/c44afb35-9dc6-473c-8b91-9df1c019ca7a)
+
+o número pode ser diferente, se a versão for mais recente
+
+1. **Arraste o Nixer** para um time
+2. **Adicione um Humano** no time adversário
+3. Clique em **Start Match**
+
+---
+
+## 🧠 Sobre
+
+O Nixer é treinado usando otimização de política proximal (PPO) com uma função de recompensa customizada para múltiplos modos de jogo. Ele adapta o estilo de jogo conforme o modo atual — mais aéreo no Hoops, redirects agressivos no Heatseeker, e equilibrado no Soccar.
+
+---
+
+## 📱 Criador
+
+Feito por **José Lourenço Lenz** ([@NextProject](https://www.youtube.com/@NextProject-050))
+
+- [YouTube](https://www.youtube.com/@NextProject-050)
+- [Instagram](https://www.instagram.com/nextproject050)
+- [TikTok](https://www.tiktok.com/@nextproject050)
