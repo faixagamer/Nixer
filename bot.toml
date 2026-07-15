@@ -2,10 +2,10 @@
 
 [settings]
 # Unique bot identifier
-agent_id = "easy_240hz/nixer/v0.5"
+agent_id = "NextProject/Nixer"
 
 # Bot name shown in-game
-name = "Nixer 0.5"
+name = "Nixer"
 
 # Loadout config file
 loadout_file = "loadout.toml"
@@ -15,8 +15,6 @@ root_dir = ""
 
 # Command used to start the bot
 run_command = "cmd /C run.bat"
-
-# Linux start command
 run_command_linux = "bash -lc ./run.sh"
 
 # Optional logo file
